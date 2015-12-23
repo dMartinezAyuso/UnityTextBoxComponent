@@ -1,0 +1,10 @@
+This is the text box component.
+You can customize it.
+test test
+test
+
+
+
+This is even more text
+text is so amazing
+Even more text
